@@ -47,6 +47,12 @@ In this course I will show you how to build a real mobile application starting f
 - more...
 
 
+## The Mobile App
+
+This is the app that we build during the course. An app that track the time that you spend on your activities and calculate your earnings.
+
+It's composite by three view, Projects, Tasks and Categories.
+
 
 ## Create project
 
@@ -60,7 +66,9 @@ The minSdkVersion is 21.
 
 **Material Design**
 
-`implementation 'com.google.android.material:material:1.2.0'`
+```
+implementation 'com.google.android.material:material:1.2.0'
+```
 
 **Room**
 
