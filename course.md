@@ -64,6 +64,9 @@ The minSdkVersion is 21.
 
 ## Setup project and install dependencies
 
+We install dependencies that will help us in the development of our application. 
+During the course we will see in detail what each of them is for.
+
 **Material Design**
 
 ```
@@ -287,6 +290,9 @@ and change the compile and kotlin options of the `build.gradle`
 ```
 
 now run the emulator and test it.
+
+
+# Change color theme
 
 
 
